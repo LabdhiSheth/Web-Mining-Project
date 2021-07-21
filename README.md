@@ -1,6 +1,7 @@
 # Web-Mining-Project - Knowledge discovery and pattern mining in World Wide Web
 
 **Problem Statement**
+
 Explosive Growth of Information sources thus creating the need to utilize automated tools to get desired information. Necessity to mine effectively on server and client side for knowledge, in doing so on server side unique and important issues have risen.
 
 **Scope**
@@ -28,7 +29,7 @@ The data had to be cleaned by deleting unnecessary data, normalizing whitespace,
 
 ● The probability is found by multiplying the two proportions and then the current word is assigned a topic.
 
-Our implementation was done using:
+**Our implementation was done using:**
 1. Python language
 2. Kaggleinterface for coding
 3. Twitter data csvfile
@@ -36,6 +37,7 @@ Our implementation was done using:
 5. Various libraries for prepossessing and scraping the tweets
 
 **Performance**
+
 The model appropriately assigns a topic and a score to a given test document.
 We have defined the number of topics to be 10.
 Our model assigns the appropriate topic to the given test document.
